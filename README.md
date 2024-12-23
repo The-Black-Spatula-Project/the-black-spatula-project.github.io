@@ -31,7 +31,7 @@ If you’d like to get involved, join our currently very active [WhatsApp](https
 
 #### Pipeline ([#data-ingestion](https://discord.com/channels/1318622366322131015/1318643155419009024))
 - Figure out a way to export papers into a format easy to read for LLMs
-- Explore different methods for paper submission (checkout [#data-ingestion](https://discord.com/channels/1318622366322131015/1318643155419009024))
+- Explore different methods for paper submission (checkout [#data-ingestion](https://discord.com/channels/1318622366322131015/1318643155419009024) and the [repository](https://github.com/anusheel/black-spatula-project))
 
 #### Website
 - Website to post updates and important documents about the project
