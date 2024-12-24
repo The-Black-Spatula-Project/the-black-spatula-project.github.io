@@ -4,9 +4,9 @@
 ---
 
 ## Background
-The Black Spatula Project is an open initiative to investigate the potential of large language models (LLMs) to identify errors in scientific papers. We seek to answer the following questions: How many errors can LLMs detect? How serious are those errors? Which model/prompt/pipeline performs the best? How can we use AI to improve scientific integrity?
+The Black Spatula Project is an open initiative to investigate the potential of large language models (LLMs) to identify errors in scientific papers. We seek to answer the following questions: How many errors can LLMs detect? How serious are those errors? Which model/prompt/pipeline performs the best? And ultimately, how can we use AI to improve scientific integrity?
 
-The project was inspired by a scientific paper that, due to a simple math error that even an AI reviewer could catch, caused many people to toss all of their black plastic kitchen implements. For more details, please check out the [original introduction](https://amistrongeryet.substack.com/p/the-black-spatula-project) by [Steve Newman](https://x.com/snewmanpv), the initiator of the project.
+The project was inspired by a scientific paper that, due to a simple math error that even an AI reviewer could catch, caused many people to toss all of their black plastic kitchen implements. To learn more about the story of this project, please check out the [blogposts](https://amistrongeryet.substack.com/) by [Steve Newman](https://x.com/snewmanpv), the initiator of the project.
 
 If you’d like to get involved, join our currently very active [WhatsApp](https://chat.whatsapp.com/DRkjqk1pwTu1pDXC9oeC0q) group (for high-level discussion) and/or [Discord](https://discord.gg/ynSY7q9y) (more focused on technical work). To contribute, check out the **Ongoing Tasks** section below.
 
@@ -26,7 +26,7 @@ If you’d like to get involved, join our currently very active [WhatsApp](https
 #### Research ([#prompt-and-model](https://discord.com/channels/1318622366322131015/1318756579113304074))
 - Manually try some papers you like or from the [WithdrarXiv dataset](https://huggingface.co/datasets/darpa-scify/withdrarxiv) for testing.
     - You can use whatever model you like or have access to, including but not limited to ChatGPT, GPT-o1, Gemini 2.0 Flash Thinking, and Claude 3.5.
-    - Please save your prompts and results in the [WithdrarXiv Spreasheet](https://docs.google.com/spreadsheets/d/1Eo5BH_shOZXKf63_kA7cuDXTBkva0vteB9CBAddq2TI/edit?usp=sharing) or [Black Spatula Draft Analysis Prompts](https://docs.google.com/spreadsheets/d/1IHGQ5s9b6U6cofYsvYEm3ITEf9MrwsMZpqV48FJnyV0/edit?usp=sharing). This helps us to keep track of the statistics and guide future directions.
+    - Please save your prompts and results in the [WithdrarXiv Spreasheet](https://docs.google.com/spreadsheets/d/1Eo5BH_shOZXKf63_kA7cuDXTBkva0vteB9CBAddq2TI/edit?usp=sharing) or [Black Spatula Draft Analysis Prompts](https://docs.google.com/spreadsheets/d/1IHGQ5s9b6U6cofYsvYEm3ITEf9MrwsMZpqV48FJnyV0/edit?usp=sharing). This helps us keep track of the statistics and guide future directions.
 - If you are a domain expert and would like to help verify LLMs’ results, please enter your name and expertise in the [Volunteer Evaluators](https://docs.google.com/spreadsheets/d/1CrkXS2WMx3a5mf5fVC_oSVJYEo3dgYZqAfm6GXX4htA) sheet
 
 #### Pipeline ([#data-ingestion](https://discord.com/channels/1318622366322131015/1318643155419009024))
@@ -51,6 +51,13 @@ If you’d like to get involved, join our currently very active [WhatsApp](https
 - [PubPeer](https://pubpeer.com/): a platform for biomed researchers to post comments on published papers.
 - [Retraction Watch Database](https://retractiondatabase.org/RetractionSearch.aspx?): a database of retracted papers and reasons.
 
+#### Potential Error Types
+- Math and numerical errors: data inconsistencies, calculation mistakes, etc.
+- Methodology problems: problematic methods, inconsistent methods, etc.
+- Writing and logical problems: incorrect interpretation of results, unsupported conclusions, etc.
+- Figure and table discrepancies: labeling/formatting errors, mismatches with narrative, etc.
+- Citation errors: invalid citations, missing citations, etc.
+- Other minor problems: grammar issues, typos, incorrect table/figure numbers, etc.
 
 #### Implementation Ideas
 - Prioritize using papers in LaTeX to retain math formulas. Papers in other domains are usually in PDF but PDF conversion may mess it up.
