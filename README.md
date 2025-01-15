@@ -1,5 +1,5 @@
 # The Black Spatula Project
-[WhatsApp](https://chat.whatsapp.com/DRkjqk1pwTu1pDXC9oeC0q) - [Discord](https://discord.com/invite/tPPRamzC) - [GitHub](https://github.com/The-Black-Spatula-Project)
+[WhatsApp](https://chat.whatsapp.com/DRkjqk1pwTu1pDXC9oeC0q) - [Discord](https://discord.gg/Zxf9p7hAnG) - [GitHub](https://github.com/The-Black-Spatula-Project)
 
 ---
 
@@ -8,7 +8,7 @@ The Black Spatula Project is an open initiative to investigate the potential of 
 
 The project was inspired by a scientific paper that, due to a simple math error that even an AI reviewer could catch, caused many people to toss all of their black plastic kitchen implements. To learn more about the story of this project, please check out [the initial post](https://amistrongeryet.substack.com/p/the-black-spatula-project) and [latest update](https://amistrongeryet.substack.com/p/black-spatula-day-five) by [Steve Newman](https://x.com/snewmanpv), the initiator of the project.
 
-If you’d like to get involved, join our currently very active [WhatsApp](https://chat.whatsapp.com/DRkjqk1pwTu1pDXC9oeC0q) group (for high-level discussion) and/or [Discord](https://discord.com/invite/tPPRamzC) (more focused on technical work). To contribute, check out the **Ongoing Tasks** section below.
+If you’d like to get involved, join our currently very active [WhatsApp](https://chat.whatsapp.com/DRkjqk1pwTu1pDXC9oeC0q) group (for high-level discussion) and/or [Discord](https://discord.gg/Zxf9p7hAnG) (more focused on technical work). To contribute, check out the **Ongoing Tasks** section below.
 
 ## Important Links
 
