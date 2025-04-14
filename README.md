@@ -13,7 +13,7 @@ If you’d like to get involved, join our currently very active [WhatsApp](https
 ## Important Links
 
 #### Worksheets
-- [WithdrarXiv Spreasheet](https://docs.google.com/spreadsheets/d/1Eo5BH_shOZXKf63_kA7cuDXTBkva0vteB9CBAddq2TI/edit?usp=sharing) - Contains arXiv papers with known errors, prompts for LLMs, and test results (maintaned by Discord community)
+- [WithdrarXiv Spreadsheet](https://docs.google.com/spreadsheets/d/1Eo5BH_shOZXKf63_kA7cuDXTBkva0vteB9CBAddq2TI/edit?usp=sharing) - Contains arXiv papers with known errors, prompts for LLMs, and test results (maintaned by Discord community)
 - [Black Spatula Draft Analysis Prompts](https://docs.google.com/spreadsheets/d/1IHGQ5s9b6U6cofYsvYEm3ITEf9MrwsMZpqV48FJnyV0/edit?usp=sharing) - Collection of prompts (maintained by WhatsApp community)
 
 #### Other
